@@ -5,13 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdev-raj&label=Profile%20views&color=0e75b6&style=flat" alt="webdev-raj" /> </p>
 
 - 🔭 I’m currently working on [DUO Studio Clone](https://duo-studio-v2.netlify.app/)
-
 - 🌱 I’m currently learning **THREE.Js**
-
 - 💬 Ask me about **REACT,GSAP**
-
 - 📫 How to reach me **rajchavan.dev@gmail.com | rajchavan524@gmail.com**
-
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
